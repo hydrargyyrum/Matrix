@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LNtdTCnlzvgA9BEcZW2OCb9n7vKIbURMmlpnopz0F22tDtkbmALhzZeOQ3nBTeSPfj4BXuH4LfASq6yV6NMmAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrsva\\source\\repos\\VectorsAndMatrix\\VectorsAndMatrix\\VectorsAndMatrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrsva\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
